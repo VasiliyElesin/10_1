@@ -3,8 +3,8 @@ package jwt
 import (
 	"context"
 	"crypto"
-	auth "github.com/vasiliyelesin/go-service/pkg/auth/jwt"
-	"github.com/vasiliyelesin/go-service/pkg/utils"
+	auth "github.com/VasiliyElesin/go-service/pkg/auth/jwt"
+	"github.com/VasiliyElesin/go-service/pkg/utils"
 	"net/http"
 	"strings"
 	"time"
