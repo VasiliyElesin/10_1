@@ -1,4 +1,4 @@
-module github.com/codeby-student/go-service
+module github.com/VasiliyElesin/go-service
 
 go 1.19
 
